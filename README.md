@@ -8,7 +8,7 @@
 <pre class="shell">PM&gt; install-package Zender.Mail</pre>
 </blockquote>
 </li>
-<li>Get new API Key by registering your email in&nbsp;<a href="http://zender.sharptag.com">Zender</a></li>
+<li>Get new API Key by registering & confirming your email in&nbsp;<a href="http://zender.sharptag.com">Zender</a></li>
 <li>The code to send a new email:
 <blockquote>
 <pre class="shell">ZenderMessage message = new ZenderMessage("Your zender API Key");
