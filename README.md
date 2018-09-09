@@ -1,6 +1,9 @@
-# zender
+# zender <img class="emoji" alt="zap" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">
 <p>Zender is a&nbsp;free&nbsp;email delivery service, it is built as Web API&nbsp;to serve marketers &amp;&nbsp;developers <span>and make it easy to send email. It is an email marketing solution.</span></p>
 <p>You can use Zender to send unlimited emails</p>
+<h2>We'd love your help making Zender better!</h2>
+<p>There are a lot of ways you can contribute to making Zender better! You can report bugs and feature requests or ideally become an ongoing participant in the Zender Project community and contribute code to the open source project.</p>
+<p>We enthusiastically welcome new contributors to the Zender Project <i><strong>even if you have no experience being part of an open source project</strong></i>. We've got some tips for new contributors and guides to getting started</p>
 <p><span style="text-decoration: underline;"><strong>How to consume the Web API</strong></span>&nbsp;&nbsp;</p>
 <ol>
 <li>First of all you need to get new API Key by registering & confirming your email in&nbsp;<a href="http://zender.sharptag.com">Zender</a></li>
