@@ -1,4 +1,4 @@
-# zender <img class="emoji" alt="zap" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">
+# Zender <img class="emoji" alt="zap" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">
 <p>Zender is a&nbsp;free&nbsp;email delivery service, it is built as Web API&nbsp;to serve marketers &amp;&nbsp;developers <span>and make it easy to send email. It is an email marketing solution.</span></p>
 <p>You can use Zender to send unlimited emails</p>
 <h2>We'd love your help making Zender better!</h2>
